@@ -30,8 +30,10 @@ A simple library to create projects fast and scalable with **Firebase V9** and *
 ## Installation
 
 ```bash
-npm install firebase-react-tools firebase
+npm install firebase-react-tools
 ```
+
+> No need to install `firebase` separately — the library bundles its own version to avoid dependency conflicts.
 
 ---
 
